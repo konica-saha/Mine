@@ -5,6 +5,7 @@ int main(){
     int T;
         cin>>T;
           int A,B,X,Y,c,d;
+          int l;
     for(int i=0;i<T;i++){
 
         cin>>A>>B>>X>>Y;
